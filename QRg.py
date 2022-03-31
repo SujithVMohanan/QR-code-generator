@@ -1,6 +1,7 @@
 from tkinter import *
 import pyqrcode
 from PIL import Image, ImageTk
+import png
 
 root = Tk()
 
